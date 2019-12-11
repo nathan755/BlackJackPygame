@@ -4,7 +4,7 @@ Multi hand  blackjack game usign Python and Pygame.
 
 Number of issues (Not Finished)
 
-To Play cd run run.py file
+To Play run the run.py file
 
 
 
